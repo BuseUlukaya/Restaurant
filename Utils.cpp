@@ -1,1 +1,0 @@
-/* Don't forget to use the 'gifted' namespace. */
